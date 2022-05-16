@@ -8,7 +8,7 @@ January 2022, Elisenda Ortiz Castillo elisendaortiz@gmail.com
 This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
 # Documents
-* Thesis_Elisenda_Ortiz.pdf
+*   [Thesis_Elisenda_Ortiz.zip](https://github.com/elisendaortiz/Phd_thesis/blob/main/Thesis_Elisenda_Ortiz.zip " ") containing a PDF document of the full version of my PhD thesis.
 
 # About this thesis
 This thesis presents a geometric approach to the study of connectivity patterns and dynamical phenomena in real-world complex networks. The main hypothesis of network geometry states that the architecture of real complex networks has a geometric nature. This has been confirmed during the last decade, with a great number of networks from different domains being successfully mapped into a (hidden) metric space with hyperbolic geometry. Maps have served throughout history as a precise and relevant source of information, at the center of political, economic, and geostrategic decisions. In this thesis, geometric maps of networks play a central role and constitute the underlying thread that weaves the various chapters together. In particular, the work presented in this thesis exploits the current explosion in computing power and the ability of geometric maps to abstract complex topologies in order to unravel fundamental principles underlying the organization and function of real networks.
