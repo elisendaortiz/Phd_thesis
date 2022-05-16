@@ -1,5 +1,5 @@
 # Phd_thesis
-Mapping complexity through network geometry: from structure to dynamics of real-world networks
+#### Mapping complexity through network geometry: from structure to dynamics of real-world networks
 
 Supervised by Prof. M. Ángeles Serrano at the University of Barcelona.
 
