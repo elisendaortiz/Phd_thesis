@@ -8,8 +8,8 @@ January 2022, Elisenda Ortiz Castillo elisendaortiz@gmail.com
 This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
 # Documents
-* [Thesis_Elisenda_Ortiz.pdf](https://github.com/elisendaortiz/Phd_thesis/blob/main/Thesis_Elisenda_Ortiz_compressed.pdf " ") pdf of my PhD thesis.
-* [Thesis_Elisenda_Ortiz.zip](https://github.com/elisendaortiz/Phd_thesis/blob/main/Thesis_Elisenda_Ortiz.zip " ") containing a PDF document with a high-resolution version of my PhD thesis.
+* [Thesis_Elisenda_Ortiz.pdf](https://github.com/elisendaortiz/Phd_thesis/blob/main/Thesis_Elisenda_Ortiz_compressed.pdf " "): to preview the .pdf of my PhD thesis.
+* [Thesis_Elisenda_Ortiz.zip](https://github.com/elisendaortiz/Phd_thesis/blob/main/Thesis_Elisenda_Ortiz.zip " "): containis a .pdf document with a high-resolution version of my PhD thesis.
 
 
 # About this thesis
